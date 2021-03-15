@@ -198,13 +198,13 @@ GEM
       railties (>= 3.2)
     e2mmap (0.1.0)
     ed25519 (1.2.4)
-    elasticsearch (7.10.1)
-      elasticsearch-api (= 7.10.1)
-      elasticsearch-transport (= 7.10.1)
-    elasticsearch-api (7.10.1)
+    elasticsearch (7.11.2)
+      elasticsearch-api (= 7.11.2)
+      elasticsearch-transport (= 7.11.2)
+    elasticsearch-api (7.11.2)
       multi_json
     elasticsearch-dsl (0.1.9)
-    elasticsearch-transport (7.10.1)
+    elasticsearch-transport (7.11.2)
       faraday (~> 1)
       multi_json
     encryptor (3.0.0)
